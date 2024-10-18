@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                              href: "https://dexscreener.com/solana/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -245,7 +245,7 @@
                                       className: "w2",
                                     }),
                                   }),
-                                  "Raydium",
+                                  "Dexscreener",
                                 ],
                               }),
                             }),
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                        href: "https://dexscreener.com/solana/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
