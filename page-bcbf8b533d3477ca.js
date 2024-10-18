@@ -240,7 +240,7 @@
                                   (0, c.jsx)("div", {
                                     className: "pa1 bg_y br50 df aic jcc",
                                     children: (0, c.jsx)("img", {
-                                      src: "./1.png",
+                                      src: "./1.svg",
                                       alt: "",
                                       className: "w2",
                                     }),
@@ -737,7 +737,7 @@
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
                           children: (0, c.jsx)("img", {
-                            src: "1.png",
+                            src: "1.svg",
                             className: "w2",
                             alt: "",
                           }),
