@@ -245,7 +245,7 @@
                                       className: "w2",
                                     }),
                                   }),
-                                  "PumpFun",
+                                  "Raydium",
                                 ],
                               }),
                             }),
